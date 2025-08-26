@@ -1,16 +1,33 @@
-# object_classifier
+# Object Classifier
 
-A new Flutter project.
+A Flutter project to practice basic ML model integration using the MobileNetV2 TFLite model
 
-## Getting Started
+## Model Used
+The Model I have used doesn't belong to me, Read [NOTICE](https://github.com/4242x/object_classifier/blob/main/NOTICE)
+- [mobilenet_v2](https://www.kaggle.com/models/tensorflow/mobilenet-v2)
+- [label](https://storage.googleapis.com/download.tensorflow.org/data/ImageNetLabels.txt)
 
-This project is a starting point for a Flutter application.
+##  How to run it locally
 
-A few resources to get you started if this is your first Flutter project:
+To get a local copy up and running, follow these simple steps.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Flutter SDK installed.
+
+### Installation
+
+1.  **Clone the repo:**
+    ```bash
+    git clone [https://github.com/4242x/object_classifier](https://github.com/4242x/object_classifier)
+    ```
+2.  **Install packages:**
+    ```bash
+    flutter pub get
+    ```
+3.  **Run the app:**
+    ```bash
+    flutter run
+    ```
+## LICENSE
+Apache License - Read LICENSE(https://github.com/4242x/object_classifier/blob/main/LICENSE)
