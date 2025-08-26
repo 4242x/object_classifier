@@ -3,7 +3,7 @@
 A Flutter project to practice basic ML model integration using the MobileNetV2 TFLite model
 
 ## Model Used
-The Model I have used doesn't belong to me, Read [NOTICE](https://github.com/4242x/object_classifier/blob/main/NOTICE)
+ The Model I have used doesn't belong to me, Read [NOTICE](https://github.com/4242x/object_classifier/blob/main/NOTICE)
 - [mobilenet_v2](https://www.kaggle.com/models/tensorflow/mobilenet-v2)
 - [label](https://storage.googleapis.com/download.tensorflow.org/data/ImageNetLabels.txt)
 
@@ -19,7 +19,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repo:**
     ```bash
-    git clone [https://github.com/4242x/object_classifier](https://github.com/4242x/object_classifier)
+    git clone https://github.com/4242x/object_classifier
     ```
 2.  **Install packages:**
     ```bash
@@ -30,4 +30,4 @@ To get a local copy up and running, follow these simple steps.
     flutter run
     ```
 ## LICENSE
-Apache License - Read LICENSE(https://github.com/4242x/object_classifier/blob/main/LICENSE)
+Apache License - Read [LICENSE](https://github.com/4242x/object_classifier/blob/main/LICENSE)
